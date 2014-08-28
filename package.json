@@ -1,0 +1,18 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-qunit": "~0.1.1",
+    "grunt-blanket-qunit": "~0.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arun Mahendrakar",
+  "license": "BSD"
+}
